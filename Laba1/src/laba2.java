@@ -18,7 +18,7 @@ if (a >= b && a >= c && a > d) {
 } else if (c >= a && c >= b && c >= d) {
     System.out.println(c);
 } else if (d >= a && d >= b && d >= c) {
-    System.out.println( "Максимальное число=" +d);
+    System.out.println( "Максимальное число= " +d);
     in.close();
 }
     }
